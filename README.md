@@ -11,3 +11,6 @@ Day 4: Add edit and delete options for flashcards
 Day 5: Implement card flip animations and category filtering
 Day 6: Polish UI and add local storage or backend support
 Day 7: Final testing, bug fixes, and deployment
+
+
+new line
