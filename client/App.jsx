@@ -1,12 +1,12 @@
 import React from 'react';
 
-function App() {
+const App = () => {
   return (
     <div style={{ textAlign: 'center', marginTop: '50px' }}>
-      <h1>🚀 Hello from Pooja’s React App!</h1>
-      <p>Your frontend is successfully deployed on Netlify.</p>
+      <h1>Welcome to Pooja's Flashcard App</h1>
+      <p>If you're seeing this, deployment is working 🎉</p>
     </div>
   );
-}
+};
 
 export default App;
